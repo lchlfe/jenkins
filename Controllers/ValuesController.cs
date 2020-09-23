@@ -13,7 +13,7 @@ namespace jenkins.Controllers
     {
         public string Get()
         {
-            return "abc";
+            return "1234";
         }
     }
 }
